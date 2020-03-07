@@ -42,8 +42,13 @@ export default class Main extends Component {
       };
 
     clickReportHandler = async () => {
+        // UBER AUTH
+        await axios.get("http://login.uber.com/oauth/v2/authorize?client_id=RTBH2BRrtufqvIChUkqMRcu1SwN2R2fr&response_type=code");
+
+        // TRIPS
         // const data = await axios.get(UBERAPI);
 
+        // TO OUR SERVER
         // await axios.post(serverAPI, {});
     }
 
