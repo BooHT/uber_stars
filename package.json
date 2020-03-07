@@ -1,0 +1,23 @@
+{
+  "name": "uber_stars",
+  "version": "1.0.0",
+  "description": "STARS - Suspicious Trips and Activity Reporting System :star:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BooHT/uber_stars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BooHT/uber_stars/issues"
+  },
+  "homepage": "https://github.com/BooHT/uber_stars#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0"
+  }
+}
