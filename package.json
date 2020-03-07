@@ -4,8 +4,12 @@
   "description": "STARS - Suspicious Trips and Activity Reporting System :star:",
   "main": "server.js",
   "scripts": {
+    "client-install": "npm install --prefix client",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "client": "npm start --prefix client",
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "repository": {
     "type": "git",
@@ -18,6 +22,8 @@
   },
   "homepage": "https://github.com/BooHT/uber_stars#readme",
   "dependencies": {
-    "body-parser": "^1.19.0"
+    "body-parser": "^1.19.0",
+    "concurrently": "^5.1.0",
+    "nodemon": "^2.0.2"
   }
 }
