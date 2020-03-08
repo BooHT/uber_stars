@@ -45,7 +45,7 @@ export default class Main extends Component {
         // UBER AUTH
         // https://login.uber.com/oauth/v2/authorize?client_id=7ab93a5a-3386-43a7-9424-465a35762dc3&response_type=code&redirect_uri=http://localhost:5000/auth
 
-        axios.get("http://localhost:5000/auth?AUTH_CODE=7ab93a5a-3386-43a7-9424-465a35762dc3")
+        axios.post("http://localhost:5000/auth?AUTH_CODE=7ab93a5a-3386-43a7-9424-465a35762dc3")
             .then(function (response) {
                 // handle success
                 window.alert('Trip History successfully sent.');
