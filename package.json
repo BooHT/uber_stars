@@ -1,0 +1,29 @@
+{
+  "name": "uber_stars",
+  "version": "1.0.0",
+  "description": "STARS - Suspicious Trips and Activity Reporting System :star:",
+  "main": "server.js",
+  "scripts": {
+    "client-install": "npm install --prefix client",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "client": "npm start --prefix client",
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BooHT/uber_stars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BooHT/uber_stars/issues"
+  },
+  "homepage": "https://github.com/BooHT/uber_stars#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "concurrently": "^5.1.0",
+    "nodemon": "^2.0.2"
+  }
+}
