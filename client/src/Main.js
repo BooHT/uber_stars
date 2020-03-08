@@ -43,13 +43,17 @@ export default class Main extends Component {
 
     clickReportHandler = async () => {
         // UBER AUTH
-        await axios.get("http://login.uber.com/oauth/v2/authorize?client_id=RTBH2BRrtufqvIChUkqMRcu1SwN2R2fr&response_type=code");
+        // https://login.uber.com/oauth/v2/authorize?client_id=7ab93a5a-3386-43a7-9424-465a35762dc3&response_type=code&redirect_uri=http://localhost:5000/auth
 
-        // TRIPS
-        // const data = await axios.get(UBERAPI);
-
-        // TO OUR SERVER
-        // await axios.post(serverAPI, {});
+        axios.get("http://localhost:5000/auth?AUTH_CODE=7ab93a5a-3386-43a7-9424-465a35762dc3")
+            .then(function (response) {
+                // handle success
+                window.alert('Trip History successfully sent.');
+            })
+            .catch(function (error) {
+                // handle error
+                window.alert('Error retrieving Trip History! Try again later.');
+            });
     }
 
 
