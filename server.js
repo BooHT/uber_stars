@@ -1,7 +1,3 @@
-import file from "./massage.json"
-
-console.log(file)
-
 // Imports dependencies and set up http server
 const
   express = require('express'),
@@ -13,6 +9,10 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 const port = process.env.PORT || 5000;
+
+var FileReader = require('filereader')
+  , fileReader = new FileReader()
+  ;
 
 let authCode;
 const token = {
@@ -87,7 +87,18 @@ app.post('/auth', (req, res) => {
   console.log("RETRIEVING TRIPS");
   console.log(trip);
 
-  open('./massage.json')
+  fileReader.setNodeChunkedEncoding(true || false);
+  fileReader.readAsDataURL(new File('./massage.json'));
+  
+  // non-standard alias of `addEventListener` listening to non-standard `data` event
+  fileReader.on('data', function (data) {
+    console.log(data);
+  });
+  
+  // `onload` as listener
+  fileReader.addEventListener('load', function (ev) {
+    console.log("dataUrlSize:", ev.target.result.length);
+  });
 
   res.sendStatus(200);
 });
