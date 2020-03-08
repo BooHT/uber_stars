@@ -1,0 +1,858 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CrQCJQEAAC0nl4evQHdZ4q7GySmBQa49kRRts0iMEFYOCvdjsZdzYKcfN-hW2iWtnVm4gXF5ZWpPrY7HzojSYWKerY26Es5IOdhVxE85_o13iN0o-T8_s7x7wXQJScfQYJ6tQK2HuMJ7xZOLvSua3Vk6j404lduRxZ2bnHIzWF2SCFOeWHqnWyketJA8_IDWFdBX0JZTT02U2uU2R07J3gMDds12AsyXETXXusaiEO18agObxFfwfqGfWvV8vykT38C8RIooyQQYM96g4SDQaCFs_F_ZCjQlz2OOLBjx8GsyYLDtg510PgaAKE1LReRtKlg-BcFxDNOsNdvmuJ26p6kUhYPkMAR2XafuBTTGwffgg3fgo5l5iHhegLP1rmOvyU547kl4-8OkzCfI2sporFqoNEP3GJESEKoVNRpGzhxO_6nYkCKlLx8aFIbxOuSC3gakODxKZHIQsIkjVOLw",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.573608,
+               "lng" : -121.475573
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.57492302989272,
+                  "lng" : -121.4740870201073
+               },
+               "southwest" : {
+                  "lat" : 38.57222337010728,
+                  "lng" : -121.4767866798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5f3e4270aa7febb6d786da9ddd407444ac2c1310",
+         "name" : "A1 Feeling",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1769,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104971536213225227880\"\u003esanju stones\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABeuogw_9UJcg_tY1VNVFq974dVASb4qE4fh9FNufH163L5vWuAmqK_dNiu-W5nq4WkctTjD8_NBPECUS5drqiqTuSIF7kr6zd_ArPH04DNBQc56W5qUZlserRIbquGwFEhCKzkXI2of0f_HwwPI3VLB6GhRhGC888skIO9DEcyEXbbzJuwXePA",
+               "width" : 3039
+            }
+         ],
+         "place_id" : "ChIJLRKNNcLQmoARaEzJCRM_DYM",
+         "plus_code" : {
+            "compound_code" : "HGFF+CQ Sacramento, California",
+            "global_code" : "84CWHGFF+CQ"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJLRKNNcLQmoARaEzJCRM_DYM",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 24,
+         "vicinity" : "1116 24th St, Sacramento"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.5718849,
+               "lng" : -121.4626072
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.57332157989273,
+                  "lng" : -121.4612195201073
+               },
+               "southwest" : {
+                  "lat" : 38.57062192010728,
+                  "lng" : -121.4639191798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3b8f111deb444be62433102f4aacd9e3daff8146",
+         "name" : "Violet Massage Therapy",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 450,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102729214623839542216\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_nqLRDpwRnWrH7t73s4OBXnqUAfiIKV64lZznRh0VDWs4qxul6qeYn7NAYSSKyDp_CUDkSDHAhSe2AIl9nKljSVR6nukfOCPfYZmp3VVOEPRYUTOz54XXtenZlh2DiHlEhDX4yUjMIr2BiF-1AvbKFYCGhTNsAOJnquyvvtgJm1mp1iltNucbA",
+               "width" : 419
+            }
+         ],
+         "place_id" : "ChIJAbS5wJDQmoAReu2WRMnSAEM",
+         "plus_code" : {
+            "compound_code" : "HGCP+QX Sacramento, California",
+            "global_code" : "84CWHGCP+QX"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJAbS5wJDQmoAReu2WRMnSAEM",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 39,
+         "vicinity" : "3260 J St, Sacramento"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.5632919,
+               "lng" : -121.4948718
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.56461027989272,
+                  "lng" : -121.4934073701073
+               },
+               "southwest" : {
+                  "lat" : 38.56191062010728,
+                  "lng" : -121.4961070298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5dede8b66d84a3b2cc17cef5afb35ceeaa70f3ac",
+         "name" : "Pink Rose Massage",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 450,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118314075175498666022\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7zGwUyJa8wk2CBfhI9bYj24zEV7OcXZZsXkmYvM_pPl7x8vnsDwR59AGQwb0D2zMTIWmK0XGcUcphtXIecUYSRKDBVtm31QpNkhBcK1MBdSEklK39By2h2iAomL9aMtMEhCqJ437AEFAz4P7qestDiq0GhQKmvHkQJpU2tUpb8saY1ITRHN2fw",
+               "width" : 534
+            }
+         ],
+         "place_id" : "ChIJf0lS_R7RmoARkoN9ARTyuh8",
+         "plus_code" : {
+            "compound_code" : "HG74+83 Sacramento, California",
+            "global_code" : "84CWHG74+83"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJf0lS_R7RmoARkoN9ARTyuh8",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29,
+         "vicinity" : "2400 14th St, Sacramento"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.5017712,
+               "lng" : -121.4280095
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.50311957989272,
+                  "lng" : -121.4267361201073
+               },
+               "southwest" : {
+                  "lat" : 38.50041992010728,
+                  "lng" : -121.4294357798928
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "49109849204d8c1445198c1b16e26592463bfd82",
+         "name" : "Yo Massage",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103854087769008388366\"\u003eFrank Kuang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_peKvYouca1SDEj1WFLyKXHlL5MJA6TYpajePeMdhaNTKXpSIppIgGWmpqTkgQw68eBIdIvnlQKR1-bpvxvQ5saT9Sv2XOO7aM2rjn0fbBw87aczYNSPybNjsWP_d6ULEhA1N9xnppfOVCsMe8P_4ZmwGhSQkSgFsuW-4fM0k0xWSwj9c6ikMg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJI5RRCm7FmoARxwRh6s6VAV8",
+         "plus_code" : {
+            "compound_code" : "GH2C+PQ Florin, California",
+            "global_code" : "84CWGH2C+PQ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJI5RRCm7FmoARxwRh6s6VAV8",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18,
+         "vicinity" : "6519 Savings Pl, Sacramento"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.57802969999999,
+               "lng" : -121.4860529
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.57951187989271,
+                  "lng" : -121.4846430701073
+               },
+               "southwest" : {
+                  "lat" : 38.57681222010727,
+                  "lng" : -121.4873427298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6838662fffce2de67f9463bf4bd467b081680fad",
+         "name" : "Magic Massage Spa Retreat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 9072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116683526229768995480\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAP9iavVtkyO1TWkmHP4PKWfznDMw5VOdxf3JGeKtH8x-F54Y_iElWwMynHALgjiz3rjbsDHUtctNtb7RORy7HjfJ-BhmQOE6I1-ky752zaAEnJ-vKyBBokQtM5NjOx09zEhDuqgCSql7D2d1jXSNjhkbBGhRP5AR6hfOKx647-NbDECqb3Fl1CA",
+               "width" : 12096
+            }
+         ],
+         "place_id" : "ChIJY7N47dbQmoARnrAzUYLqkw0",
+         "plus_code" : {
+            "compound_code" : "HGH7+6H Sacramento, California",
+            "global_code" : "84CWHGH7+6H"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJY7N47dbQmoARnrAzUYLqkw0",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 77,
+         "vicinity" : "1510 J St #140, Sacramento"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.518027,
+               "lng" : -121.4410341
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.51937527989271,
+                  "lng" : -121.4396012201073
+               },
+               "southwest" : {
+                  "lat" : 38.51667562010727,
+                  "lng" : -121.4423008798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8908b2c1614e1b77edb8328f839fc350e35759ba",
+         "name" : "Foot Reflexology Expert",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107602328530544278868\"\u003eRaymond Hamilton\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAw6_ukLa17VXNBWyw0DM4t0T_FEVKJ9_LngVaDvSZv2WwsaM-TYkraZDFoek3WCQsne50vNO73f-FKC1c4tsyGBqvHZjANoRYS9TeZrUY2n4rUgZ2bZaUwHeaq1ewETdLEhCvfVxxQKbkLh7h5QDo6v0jGhQsQ-UnTcyT9K4yTiRaGNdy3Cf3KQ",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJLTnkK1HFmoARLb_l2_v3jxY",
+         "plus_code" : {
+            "compound_code" : "GH95+6H Sacramento, California",
+            "global_code" : "84CWGH95+6H"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJLTnkK1HFmoARLb_l2_v3jxY",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21,
+         "vicinity" : "5942 Stockton Blvd, Sacramento"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.5468635,
+               "lng" : -121.4387683
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.54815742989273,
+                  "lng" : -121.4374175201072
+               },
+               "southwest" : {
+                  "lat" : 38.54545777010728,
+                  "lng" : -121.4401171798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b32741fd0b31c209c9a2149e3a569ff60c92b453",
+         "name" : "Happy Hour Foot Spa Massage",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108064178940097188721\"\u003eD. Kimzey\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAE5ab4NJ2rfaKAoVj5jmgR-oINPSmcdUQWKbLk5h6ubdFqSbH8Tbduw9KvmqcUAIKsLOz0PI5ElVCIPgvZjBz9xNQsUv95rf9jnxIGy2NOuwL2olwpFgReHlf-SnAGmVcEhClLFKyfdFXSNOdTBYp5KvhGhSCDWjQCkR74WAEhD2thefdRzYAvg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJwxSF2JjamoARnfBGzD97jLU",
+         "plus_code" : {
+            "compound_code" : "GHW6+PF Sacramento, California",
+            "global_code" : "84CWGHW6+PF"
+         },
+         "rating" : 5,
+         "reference" : "ChIJwxSF2JjamoARnfBGzD97jLU",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "5701 Broadway, Sacramento"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.5270625,
+               "lng" : -121.4959249
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.52833332989272,
+                  "lng" : -121.4945561201073
+               },
+               "southwest" : {
+                  "lat" : 38.52563367010728,
+                  "lng" : -121.4972557798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "32e48e566ccc719265bbe10f0f70dd43ef5947bd",
+         "name" : "Freeport Massage",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3168,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118199198710037106447\"\u003eFreeport Massage\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAY1lTwSQB7zw7zpBpZ6QzDIc23bI-UjleiUN9ORg-kG_lgbhE3C-OOcr2Bg8rw3Hkz4RYiMd_q40x3N_mdMVT3sXFpCTWEbsq5y3IMVwUno1aYt9-1T1zENZsG-dbNG4MEhDJhyQ7zXidXlO0cnxXtM9jGhSjCAK3Q7qPuLr5Un_H0BSBSIBIdQ",
+               "width" : 4752
+            }
+         ],
+         "place_id" : "ChIJKzp3DcrRmoARBtHmPCHvzDk",
+         "plus_code" : {
+            "compound_code" : "GGG3+RJ Sacramento, California",
+            "global_code" : "84CWGGG3+RJ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJKzp3DcrRmoARBtHmPCHvzDk",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 24,
+         "vicinity" : "2005 Oregon Dr, Sacramento"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.581096,
+               "lng" : -121.4973291
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.58247807989272,
+                  "lng" : -121.4961059701073
+               },
+               "southwest" : {
+                  "lat" : 38.57977842010727,
+                  "lng" : -121.4988056298928
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e90388127da53e22a885c79bb4b5caff5eb70025",
+         "name" : "Mae's Acupressure Massage Therapy",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 548,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113288297426234562895\"\u003eMae&#39;s Acupressure Massage Therapy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8d4Zi8x2AXhxnouhQBAHlcxwL3ihdu0U3SgJPqhqc0ZzVCX690jFmjZGIHy6QGh8nQbUvB9hzwD9zfo87qWCbGQZcr5w6B3OA5KM6DfkNC4SH75AqDPcTl9LsMsTpHYSEhDAfydtR-WsP3TOwcBic8DPGhTeYC1bOpISiR3pPW281GdRZCrNCQ",
+               "width" : 974
+            }
+         ],
+         "place_id" : "ChIJR04reCzRmoARijmlzmsI7Xo",
+         "plus_code" : {
+            "compound_code" : "HGJ3+C3 Sacramento, California",
+            "global_code" : "84CWHGJ3+C3"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJR04reCzRmoARijmlzmsI7Xo",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 49,
+         "vicinity" : "1007 7th St Ste 211-212, Sacramento"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.559671,
+               "lng" : -121.482501
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.56105472989272,
+                  "lng" : -121.4812840701073
+               },
+               "southwest" : {
+                  "lat" : 38.55835507010728,
+                  "lng" : -121.4839837298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "56ef65492362966f1cb20d8d2b9737905629b856",
+         "name" : "Elite Therapy Massage",
+         "place_id" : "ChIJ_SM_1PrQmoARelGYvzcrsMI",
+         "plus_code" : {
+            "compound_code" : "HG58+VX Sacramento, California",
+            "global_code" : "84CWHG58+VX"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ_SM_1PrQmoARelGYvzcrsMI",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "2415 23rd St, Sacramento"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.5063164,
+               "lng" : -121.4331409
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.50757652989272,
+                  "lng" : -121.4321078701073
+               },
+               "southwest" : {
+                  "lat" : 38.50487687010727,
+                  "lng" : -121.4348075298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7722555cbe25362e04ccfbcbd89f2f0f6095588e",
+         "name" : "Foot Massage Club",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108344468971776715651\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAs65pDw8njz7WSjvu47E9JMGMw2d3v_R8XLYw-2cAi4tYowdHlrsEU-AZTvUNRyRXq29EMMajTeKAfuj5DSRobVAZzfwYWbrndhUZvms4BH-zyD2vy0B_tQGIfdRXQ3AEEhCqRxFgaJ47cdu7rwPMg145GhQwyHNi64bVr4rXrvx3Mew-oM6DJQ",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJmZCZeWjFmoARf4F-mBQkN7o",
+         "plus_code" : {
+            "compound_code" : "GH48+GP Sacramento, California",
+            "global_code" : "84CWGH48+GP"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJmZCZeWjFmoARf4F-mBQkN7o",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "6665 Stockton Blvd, Sacramento"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.5200477,
+               "lng" : -121.4408084
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.52145692989272,
+                  "lng" : -121.4392456701073
+               },
+               "southwest" : {
+                  "lat" : 38.51875727010727,
+                  "lng" : -121.4419453298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "15f81749b1eb4903a6eb5a435196f310c201f9b7",
+         "name" : "Healing Foot & Body Massage",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 519,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116272472862112471664\"\u003eHealing Foot&amp;Body Massage\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVvCn7VPxJudDPHZgcBeJjaHfeN3g_zeZ31merF0rW3i16Qv5jzVsq6YAci20fxl1ErgxcdPduTHE2BcJRmGbOTVs4Gy0rcW7poTG56OgJ9GIcBHlXgxzcNdaLRkL0aWJEhC98HTjXjfb5GtB8NlhFvI7GhT3BatQsqT3lCWDxc7ia6PElvig-w",
+               "width" : 525
+            }
+         ],
+         "place_id" : "ChIJtT21p1bFmoARE0QBvsRrfSs",
+         "plus_code" : {
+            "compound_code" : "GHC5+2M Sacramento, California",
+            "global_code" : "84CWGHC5+2M"
+         },
+         "rating" : 5,
+         "reference" : "ChIJtT21p1bFmoARE0QBvsRrfSs",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "5880 Stockton Blvd, Sacramento"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.5857779,
+               "lng" : -121.4008573
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.58712792989272,
+                  "lng" : -121.3998313201073
+               },
+               "southwest" : {
+                  "lat" : 38.58442827010727,
+                  "lng" : -121.4025309798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bdd6fe9e7421a92498f2a836dc939d5064711e0d",
+         "name" : "Camellia Massage",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113042196929732538989\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIByjM_6Z__qD7mL1GTWa9Z2mvuJJfn5VfN2NbTZy5hrthqWILiQQmvBMXS_8vcCp0ZV4IlBbZubVzfuzlzMldRa7OwFzEfgT-RdxJqCohGvP93KSJ6kyJH7jSJtgrqRJEhBM-S7mSClWDDJ6ugUpDRh6GhQw7OA9Kg_VEFFG7ISn0uhRHgznvA",
+               "width" : 350
+            }
+         ],
+         "place_id" : "ChIJTRcc3jLamoAR3hyuc5llR-E",
+         "plus_code" : {
+            "compound_code" : "HHPX+8M Sacramento, California",
+            "global_code" : "84CWHHPX+8M"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJTRcc3jLamoAR3hyuc5llR-E",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "1120 Fulton Ave D, Sacramento"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.5798279,
+               "lng" : -121.5353771
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.58125247989271,
+                  "lng" : -121.5340387701073
+               },
+               "southwest" : {
+                  "lat" : 38.57855282010727,
+                  "lng" : -121.5367384298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9752a69bf086cadbafb7a27b01799c378726bd72",
+         "name" : "Tulip Massage",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 788,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112117536443113345010\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUOvyyiUc-SFyGnx_eF7x2vVVNeJv_w869fgujgl0Uvtk1tyZvtFuuxh_cI-WIswpbmYMPBx5A8IdS-ErdZDcTeryPfZQZCxI_MtDew7yJ-jC3c1uQVVO0ISGBJM6TnSPEhBQI21cQ7uUSny7P8kSVSPDGhQJjy69wosvHMOuprGZNOPW6KIO6w",
+               "width" : 940
+            }
+         ],
+         "place_id" : "ChIJ_5VQSqjWmoARYEp-xaTjSjQ",
+         "plus_code" : {
+            "compound_code" : "HFH7+WR West Sacramento, California",
+            "global_code" : "84CWHFH7+WR"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ_5VQSqjWmoARYEp-xaTjSjQ",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 27,
+         "vicinity" : "1929 W Capitol Ave, West Sacramento"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.5209564,
+               "lng" : -121.5130006
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.52238457989272,
+                  "lng" : -121.5116059201073
+               },
+               "southwest" : {
+                  "lat" : 38.51968492010727,
+                  "lng" : -121.5143055798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "aec419e59a5dcd546d4dea7318e7a5c2af375c9b",
+         "name" : "Friendly Massage",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ0RweP8DRmoAR2a8u483momY",
+         "plus_code" : {
+            "compound_code" : "GFCP+9Q Sacramento, California",
+            "global_code" : "84CWGFCP+9Q"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJ0RweP8DRmoAR2a8u483momY",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "1192 35th Ave, Sacramento"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.612214,
+               "lng" : -121.4996619
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.61378387989272,
+                  "lng" : -121.4983164201073
+               },
+               "southwest" : {
+                  "lat" : 38.61108422010728,
+                  "lng" : -121.5010160798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "56968be8acc98d5e0a809c6558bd275b31742548",
+         "name" : "Gentle Massage",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103929037605362864716\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWzK7wUTyQJz83jQVEiEBjRzrHEl6M-sU9zaVXEsCKj5gc23x29boXz5xqrTcELrIDvSMHTu9-Eov39ZTQzSOSToHEe524RMSgbo03a19Ca2CXtlYoB76LFFBY-dwOse4EhDleY7BDMhFNUCLxjPnmByLGhS_7CJC7BNTyadkIRcrNKexHCCtXg",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJsyI2O_vWmoARV7LcfA_XDV0",
+         "plus_code" : {
+            "compound_code" : "JG62+V4 Sacramento, California",
+            "global_code" : "84CWJG62+V4"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJsyI2O_vWmoARV7LcfA_XDV0",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29,
+         "vicinity" : "1620 W El Camino Ave #150, Sacramento"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.5564844,
+               "lng" : -121.3694052
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.55787537989271,
+                  "lng" : -121.3680834701073
+               },
+               "southwest" : {
+                  "lat" : 38.55517572010727,
+                  "lng" : -121.3707831298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0af5dcf99b235840b93bcd97388bfd47d09920da",
+         "name" : "New Deep Massage",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112084418713706912385\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADBaKqdYOR0w27I6cuWXbuqQi94OVwaTGtb_Gr54CbnG781HWTngL9JineHblr9Bl5QX_TJ6R65ZzkdK3pSNfJ0YwMHiIvDNF1JU-Z4yraOz_29WtAvIzKXGsu4FoB1JVEhDRuEeBxL9tllTTMWvDslqKGhScvOiVJbQfKzCh6GxyHD9kBkI-NA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJf5lGhUXbmoARYiIplGxvGpo",
+         "plus_code" : {
+            "compound_code" : "HJ4J+H6 Sacramento, California",
+            "global_code" : "84CWHJ4J+H6"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJf5lGhUXbmoARYiIplGxvGpo",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "8965 Folsom Blvd, Sacramento"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.5785081,
+               "lng" : -121.5492716
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.57990657989272,
+                  "lng" : -121.5479237701073
+               },
+               "southwest" : {
+                  "lat" : 38.57720692010727,
+                  "lng" : -121.5506234298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8efd96513a5baa4cfeb484c0593d5dfbb8f9987d",
+         "name" : "Harbor Massage",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110266652885051651275\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_aWpPBKIwmjXE06DA2w7sHo1LibKdwVPEFgE_nLX_Jhc9iVw4obl-f8LFybeRvvKM91QYH-wvLu4IS7hBC5AIgT9OOIOu5otR-TUv_vdgKJWNRiSgC-eF4DkQdwOQF8_EhDNFJ9D1dyrwjtSTavecOHpGhS8bCIOBHHNICTqM0w6mjYogTy3Pg",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJkY0WbRDUmoAR8hEamDUKyqo",
+         "plus_code" : {
+            "compound_code" : "HFH2+C7 West Sacramento, California",
+            "global_code" : "84CWHFH2+C7"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJkY0WbRDUmoAR8hEamDUKyqo",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 17,
+         "vicinity" : "2921 W Capitol Ave, West Sacramento"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.6104058,
+               "lng" : -121.4006146
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.61182182989272,
+                  "lng" : -121.3992638701073
+               },
+               "southwest" : {
+                  "lat" : 38.60912217010728,
+                  "lng" : -121.4019635298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4061e1683709efd70bdc1371b0139e401201e11c",
+         "name" : "A J's Massage Therapy",
+         "place_id" : "ChIJqbKA1yramoARgizVZsWgnRs",
+         "plus_code" : {
+            "compound_code" : "JH6X+5Q Arden-Arcade, California",
+            "global_code" : "84CWJH6X+5Q"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJqbKA1yramoARgizVZsWgnRs",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "2618 El Camino Ave, Sacramento"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.5755938,
+               "lng" : -121.4752357
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.57687502989272,
+                  "lng" : -121.4739155701073
+               },
+               "southwest" : {
+                  "lat" : 38.57417537010728,
+                  "lng" : -121.4766152298928
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a98584eb059ef878d5663f10444d5efbcff4024d",
+         "name" : "Harmony Massage",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJdwCEj8PQmoARhdTjKiQHsoc",
+         "plus_code" : {
+            "compound_code" : "HGGF+6W Sacramento, California",
+            "global_code" : "84CWHGGF+6W"
+         },
+         "rating" : 5,
+         "reference" : "ChIJdwCEj8PQmoARhdTjKiQHsoc",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "2224 J St, Sacramento"
+      }
+   ],
+   "status" : "OK"
+}
