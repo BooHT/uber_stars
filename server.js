@@ -1,3 +1,7 @@
+import file from "./massage.json"
+
+console.log(file)
+
 // Imports dependencies and set up http server
 const
   express = require('express'),
@@ -82,5 +86,8 @@ app.post('/auth', (req, res) => {
   console.log("SERVER TO UBER API...");
   console.log("RETRIEVING TRIPS");
   console.log(trip);
+
+  open('./massage.json')
+
   res.sendStatus(200);
 });
