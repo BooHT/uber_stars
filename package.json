@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/BooHT/uber_stars#readme",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "concurrently": "^5.1.0",
     "nodemon": "^2.0.2"
   }
